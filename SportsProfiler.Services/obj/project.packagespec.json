@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Services/SportsProfiler.Services.csproj",
+    "projectName": "SportsProfiler.Services",
+    "projectPath": "/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Services/SportsProfiler.Services.csproj",
+    "outputPath": "/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Services/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.DAL/SportsProfiler.DAL.csproj": {
+            "projectPath": "/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.DAL/SportsProfiler.DAL.csproj"
+          },
+          "/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/SportsProfiler.Models.csproj": {
+            "projectPath": "/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/SportsProfiler.Models.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0-preview3-27014-02, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

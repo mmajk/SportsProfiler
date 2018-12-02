@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <AspNetCoreHostingModel>inprocess</AspNetCoreHostingModel>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.App" />
+        <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0-preview3-35497" PrivateAssets="All" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0-preview3-35497" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.0-preview3-35497" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.0-preview3-35497" />
+        <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.13" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <ProjectReference Include="..\SportsProfiler.DAL\SportsProfiler.DAL.csproj" />
+      <ProjectReference Include="..\SportsProfiler.Models\SportsProfiler.Models.csproj" />
+      <ProjectReference Include="..\SportsProfiler.Services\SportsProfiler.Services.csproj" />
+    </ItemGroup>
+
+</Project>

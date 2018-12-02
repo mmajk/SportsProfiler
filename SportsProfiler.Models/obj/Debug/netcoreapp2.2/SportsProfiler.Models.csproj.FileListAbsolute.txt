@@ -1,0 +1,9 @@
+/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/bin/Debug/netcoreapp2.2/SportsProfiler.Models.deps.json
+/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/bin/Debug/netcoreapp2.2/SportsProfiler.Models.dll
+/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/bin/Debug/netcoreapp2.2/SportsProfiler.Models.pdb
+/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/obj/Debug/netcoreapp2.2/SportsProfiler.Models.csprojAssemblyReference.cache
+/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/obj/Debug/netcoreapp2.2/SportsProfiler.Models.csproj.CoreCompileInputs.cache
+/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/obj/Debug/netcoreapp2.2/SportsProfiler.Models.AssemblyInfoInputs.cache
+/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/obj/Debug/netcoreapp2.2/SportsProfiler.Models.AssemblyInfo.cs
+/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/obj/Debug/netcoreapp2.2/SportsProfiler.Models.dll
+/Users/jakobkorsgaard/RiderProjects/SportsProfiler/SportsProfiler.Models/obj/Debug/netcoreapp2.2/SportsProfiler.Models.pdb
